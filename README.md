@@ -5,6 +5,7 @@ This faction is balanced around the upper end of vanilla capabilities (not inclu
 The Concord has several medium-sized regions throughout the map. Their regions contain an assortment of small and medium-sized ships, with each sector having a 10% chance to spawn a powerful station or capital ship such as a carrier, battlecruiser, or flagship. If you encounter one of these, be prepared for a challenging fight.
 
 
+
 Lore:
 
   In the mid twenty-third century, a vast fleet of jumpships left the Sol system in a great exodus. Fed up with the constant petty wars and politicking of the Solar nations, a loose coalition of nearly two billion souls invested in a massive undertaking: an interstellar colonization effort with the intent of establishing a new bastion of humanity far from the corruption and unrest that they felt had taken hold of Sol. The separatist fleet set out into the black toward a distant star cluster where a number of habitable systems had been sighted, but the journey would be a long and arduous one, taking many years even with their superluminal warp drives.
@@ -20,12 +21,14 @@ Lore:
   Through the collaborative efforts of its constituent worlds, the Concord formed a powerful military force capable of standing fast against the rising tide of the Ascendancy. Millions of the best and brightest from across the sector devoted the full extent of their talents toward the design and production of weapons, warships, and the logistical infrastructure to support them. Though the ensuing conflict nearly tore the sector asunder, the Concord held firm and fought the Ascendancy to a standstill, leaving the two factions in an uneasy state of cold war which persists to this day.
 
 
+
 Features:
 
 - 14 ships
 - 287 blocks (including size variations)
 - Unusual combination of standard geometry and various kinds of triangles
 - Lots of supplementary lore in the descriptions of each block
+
 
 
 Equipment:
