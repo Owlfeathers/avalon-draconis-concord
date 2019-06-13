@@ -33,15 +33,15 @@ Features:
 
 Equipment:
 
-Repeater Cannons: Medium-range coilguns with a decent rate of fire and moderate damage per shot.
-Artillery Railguns: Very long-range guns which fire multiple projectiles per shot and deal high damage with each round, but take a long time to reload.
-Particle Beams: Long-range, slow-firing pulsed beam weapons which deal relatively high damage and produce minor explosive effects on impact.
-Point Defence Systems: Flak cannons, charging anti-missile lasers, and heavier anti-drone turrets.
-Broadside Casemate Guns: Limited arc guns with good range and explosive shells, meant for mounting en masse along the sides of ships.
-Spinal Mounts: Huge, powerful weapons capable of extremely long-range bombardment and dealing massive damage with each shot. Narrow-arc swivel mountings allow for more precise aiming, and targeting lasers can be optionally attached.
-Missile Launchers: Includes both agile, rapid-fire short-range missiles for killing fighters, and two types of long-range anti-capital cruise missiles.
-Blueprint Drones: Two types of multi-block drones, a tiny one with a pulse laser and a fighter-sized one armed with a light repeater cannon and a more powerful pulse laser.
-Strikecraft Weapons: Fixed-mount weaponry designed for small, fast fighters and bombers. Some can be modified with extended barrels and laser chambers.
-Shield Generators: Powerful defensive shield projectors with high HP and moderate regeneration.
-Thrusters: Heavy thrusters have a poor thrust-to-mass ratio but provide a lot of thrust for low cost, while light thrusters are the opposite.
+- Repeater Cannons: Medium-range coilguns with a decent rate of fire and moderate damage per shot.
+- Artillery Railguns: Very long-range guns which fire multiple projectiles per shot and deal high damage with each round, but take a long time to reload.
+- Particle Beams: Long-range, slow-firing pulsed beam weapons which deal relatively high damage and produce minor explosive effects on impact.
+- Point Defence Systems: Flak cannons, charging anti-missile lasers, and heavier anti-drone turrets.
+- Broadside Casemate Guns: Limited arc guns with good range and explosive shells, meant for mounting en masse along the sides of ships.
+- Spinal Mounts: Huge, powerful weapons capable of extremely long-range bombardment and dealing massive damage with each shot. Narrow-arc swivel mountings allow for more precise aiming, and targeting lasers can be optionally attached.
+- Missile Launchers: Includes both agile, rapid-fire short-range missiles for killing fighters, and two types of long-range anti-capital cruise missiles.
+- Blueprint Drones: Two types of multi-block drones, a tiny one with a pulse laser and a fighter-sized one armed with a light repeater cannon and a more powerful pulse laser.
+- Strikecraft Weapons: Fixed-mount weaponry designed for small, fast fighters and bombers. Some can be modified with extended barrels and laser chambers.
+- Shield Generators: Powerful defensive shield projectors with high HP and moderate regeneration.
+- Thrusters: Heavy thrusters have a poor thrust-to-mass ratio but provide a lot of thrust for low cost, while light thrusters are the opposite.
 
